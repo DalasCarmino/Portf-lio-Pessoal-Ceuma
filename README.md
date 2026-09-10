@@ -1,2 +1,2 @@
 # Portf-lio-Pessoal-Ceuma
-Sobre os projetos:
+Um portfólio pessoal. Aluno Carmino Lucas Matos da Costa
